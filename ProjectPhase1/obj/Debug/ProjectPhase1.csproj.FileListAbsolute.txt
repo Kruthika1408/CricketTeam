@@ -1,0 +1,7 @@
+C:\Users\mmm\source\repos\ProjectPhase1\ProjectPhase1\bin\Debug\ProjectPhase1.exe.config
+C:\Users\mmm\source\repos\ProjectPhase1\ProjectPhase1\bin\Debug\ProjectPhase1.pdb
+C:\Users\mmm\source\repos\ProjectPhase1\ProjectPhase1\obj\Debug\ProjectPhase1.csproj.AssemblyReference.cache
+C:\Users\mmm\source\repos\ProjectPhase1\ProjectPhase1\obj\Debug\ProjectPhase1.csproj.CoreCompileInputs.cache
+C:\Users\mmm\source\repos\ProjectPhase1\ProjectPhase1\obj\Debug\ProjectPhase1.exe
+C:\Users\mmm\source\repos\ProjectPhase1\ProjectPhase1\obj\Debug\ProjectPhase1.pdb
+C:\Users\mmm\source\repos\ProjectPhase1\ProjectPhase1\obj\Debug\ProjectPhase1.csproj.CopyComplete
